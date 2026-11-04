@@ -1,0 +1,137 @@
+{
+  "item": {
+    "id": "979881465964",
+    "restype": "watchface",
+    "name": "山野等高线",
+    "description": "以等高线与地貌插画，把山径、沙丘、冰川和火山装进腕间。\n\n内置「苔绿山径」「沙丘远足」「冰川蓝线」「火山夜行」四套主题，显示时间、日期、步数和步数目标完成进度。右下角的条形与百分比表示步数目标进度。\n\n长按表盘，进入设置／编辑 → 样式，即可选择整套主题并保存。主题手动切换，不会每天自动更换。",
+    "preview": [
+      "media/preview-01-themes.jpg",
+      "media/preview-02-layouts.jpg",
+      "media/preview-03-guide.jpg"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/cover.jpg",
+    "author": [
+      {
+        "name": "A_WU",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/Contour-band9-1.0.0.face",
+      "versionCode": 65536,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "首个正式版本：四套地貌主题，显示时间、日期、步数与目标进度，支持在系统样式设置中切换主题。"
+        }
+      ]
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/Contour-band10-1.0.0.face",
+      "versionCode": 65536,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "首个正式版本：四套地貌主题，显示时间、日期、步数与目标进度，支持在系统样式设置中切换主题。"
+        }
+      ]
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/Contour-band10-1.0.0.face",
+      "versionCode": 65536,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "首个正式版本：四套地貌主题，显示时间、日期、步数与目标进度，支持在系统样式设置中切换主题。"
+        }
+      ]
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/Contour-band10-1.0.0.face",
+      "versionCode": 65536,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "首个正式版本：四套地貌主题，显示时间、日期、步数与目标进度，支持在系统样式设置中切换主题。"
+        }
+      ]
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/Contour-band10-1.0.0.face",
+      "versionCode": 65536,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "首个正式版本：四套地貌主题，显示时间、日期、步数与目标进度，支持在系统样式设置中切换主题。"
+        }
+      ]
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/Contour-pro-1.0.0.face",
+      "versionCode": 65536,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "首个正式版本：四套地貌主题，显示时间、日期、步数与目标进度，支持在系统样式设置中切换主题。"
+        }
+      ]
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/Contour-pro-1.0.0.face",
+      "versionCode": 65536,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "首个正式版本：四套地貌主题，显示时间、日期、步数与目标进度，支持在系统样式设置中切换主题。"
+        }
+      ]
+    },
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/Contour-rw-1.0.0.face",
+      "versionCode": 65536,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "首个正式版本：四套地貌主题，显示时间、日期、步数与目标进度，支持在系统样式设置中切换主题。"
+        }
+      ]
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/Contour-rw-1.0.0.face",
+      "versionCode": 65536,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "首个正式版本：四套地貌主题，显示时间、日期、步数与目标进度，支持在系统样式设置中切换主题。"
+        }
+      ]
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/Contour-rw-1.0.0.face",
+      "versionCode": 65536,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "首个正式版本：四套地貌主题，显示时间、日期、步数与目标进度，支持在系统样式设置中切换主题。"
+        }
+      ]
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}

@@ -7,7 +7,8 @@
     "preview": [
       "media/preview-01-themes.jpg",
       "media/preview-02-layouts.jpg",
-      "media/preview-03-guide.jpg"
+      "media/preview-03-round-themes.jpg",
+      "media/preview-04-guide.jpg"
     ],
     "icon": "media/icon.png",
     "cover": "media/cover.jpg",
@@ -127,6 +128,72 @@
         {
           "version": "1.0.0",
           "content": "首个正式版本：四套地貌主题，显示时间、日期、步数与目标进度，支持在系统样式设置中切换主题。"
+        }
+      ]
+    },
+    "xmws5": {
+      "version": "1.0.0",
+      "versionCode": 65536,
+      "file_name": "downloads/Contour-s5-1.0.0.face",
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "新增圆屏适配，内置四套地貌主题，可在系统样式设置中切换。"
+        }
+      ]
+    },
+    "xmws3": {
+      "version": "1.0.0",
+      "versionCode": 65536,
+      "file_name": "downloads/Contour-round466-1.0.0.face",
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "新增圆屏适配，内置四套地貌主题，可在系统样式设置中切换。"
+        }
+      ]
+    },
+    "xmws4": {
+      "version": "1.0.0",
+      "versionCode": 65536,
+      "file_name": "downloads/Contour-round466-1.0.0.face",
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "新增圆屏适配，内置四套地貌主题，可在系统样式设置中切换。"
+        }
+      ]
+    },
+    "xmws4xring": {
+      "version": "1.0.0",
+      "versionCode": 65536,
+      "file_name": "downloads/Contour-round466-1.0.0.face",
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "新增圆屏适配，内置四套地貌主题，可在系统样式设置中切换。"
+        }
+      ]
+    },
+    "xmws441": {
+      "version": "1.0.0",
+      "versionCode": 65536,
+      "file_name": "downloads/Contour-round466-1.0.0.face",
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "新增圆屏适配，内置四套地貌主题，可在系统样式设置中切换。"
+        }
+      ]
+    },
+    "xmws541": {
+      "version": "1.0.0",
+      "versionCode": 65536,
+      "file_name": "downloads/Contour-round466-1.0.0.face",
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "新增圆屏适配，内置四套地貌主题，可在系统样式设置中切换。"
         }
       ]
     }
